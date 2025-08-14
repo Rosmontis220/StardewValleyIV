@@ -3,7 +3,7 @@
 **Replaces Stardew Valley's soundtrack with music from Arknights: Endfield.**
 
 ## Installation
-1. Install [SMAPI](https://smapi.io/) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+1. Install [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 2. Download main pack from [Releases](https://github.com/Rosmontis220/StardewValleyIV/releases)
 3. Unzip into `Mods` folder
 
