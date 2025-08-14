@@ -1,0 +1,10 @@
+{
+    "Name": "Endfield Music Pack",
+    "Author": "Rosmontis220",
+    "Version": "1.0.0",
+    "Description": "Replacing several songs with Arknights:Endfield music.",
+    "UniqueID": "Rosmontis220.EndfieldMusicPack",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
