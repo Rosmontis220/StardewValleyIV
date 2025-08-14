@@ -4,6 +4,7 @@
     "Version": "1.0.0",
     "Description": "Replacing several songs with Arknights:Endfield music.",
     "UniqueID": "Rosmontis220.EndfieldMusicPack",
+	"UpdateKeys": [ "GitHub:Rosmontis220/StardewValleyIV" ]
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
